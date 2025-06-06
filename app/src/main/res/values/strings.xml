@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ARStreetArt</string>
+    <string name="locked">Locked</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="lock">Lock</string>
+</resources>

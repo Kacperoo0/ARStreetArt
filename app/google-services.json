@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182006644565",
+    "project_id": "arstreetart",
+    "storage_bucket": "arstreetart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182006644565:android:fa2c685872b964b9aab9dc",
+        "android_client_info": {
+          "package_name": "com.example.arstreetart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdEnRTjTiQ7UIEvBPI2a-p_awIvuMd6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
